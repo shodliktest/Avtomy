@@ -18,7 +18,7 @@ targets = [
 
 words = [
     "salom", "qalaysiz", "ishlar yaxshimi", "hello", "hi", "test", "ping", 
-    "start", "ok", "run", "python", "telegram", "bot", "coding", 
+    "start", "ok", "SHodlik", "run", "python", "telegram", "bot", "coding", 
     "uzbekistan", "tashkent", "quyosh", "osmon", "kitob", "ilm", "omad"
 ]
 
